@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phoenix-Eden
-- 👀 I’m interested in Coding,reading and sorts of activities that make my brain sweat
+- 👀 I’m interested in Coding,reading and all sorts of activities that make my brain sweat
 - 🌱 I’m currently learning Java,swift,JS,Python(and much more)
 - 🔴 I love Java and am currently in the process of making it my life
 - 💞️ I’m looking to collaborate on projects that wrap around Java, JS, Python and all sorts, that keeps me hooked to my laptop  
